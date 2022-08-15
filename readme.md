@@ -1,1 +1,1 @@
-Final change
+Проработка команд GIT
